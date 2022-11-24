@@ -1,5 +1,7 @@
+[![MasterHead](https://github.com/FelipeAsenjo/FelipeAsenjo/blob/master/Work%20smarter..png?raw=true)](https://asenjo-felipe.tech)
 <h1 align="center">Hi 👋, I'm Felipe Asenjo</h1>
 <h3 align="center">A self-taught Full Stack Developer from Chile</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipeasenjo&label=Profile%20views&color=0e75b6&style=flat" alt="felipeasenjo" /> </p>
 
